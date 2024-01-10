@@ -1,27 +1,21 @@
 # Indexa
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+## Descrição
 
-## Development server
+Indexa é uma lista de contatos, desenvolvida em Angular, que utiliza componentes reutilizaveis, utilizando a linguagem de template do Angular para controlar o fluxo dos dados com `@for` entre outros.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse projeto, foi desenvolvido durante o curso de [Angular](https://cursos.alura.com.br/course/angular-aplicacao-web-componentes-linguagem-template-cli) da [Alura](https://www.alura.com.br/)
 
-## Code scaffolding
+## Visualize à aplicação
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Site: [Indexa](https://indexa-nine.vercel.app/).
 
-## Build
+<img src="src/assets/view.gif" alt="Gif da aplicação rodando" />
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologias usadas:
 
-## Running unit tests
+- `Angular`
+- `TypeScript`
+- `CSS`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esse projeto foi desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) na versão 17.0.3.
